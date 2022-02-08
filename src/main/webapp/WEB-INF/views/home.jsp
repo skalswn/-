@@ -380,6 +380,7 @@ function input_food()  {
 						</div>
 					</div>
 					<!-- s -->
+					<!-- s -->
 					<div class="row">
 						<div class="col-md-12 grid-margin stretch-card">
 							<div class="card position-relative">
